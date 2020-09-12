@@ -34,6 +34,7 @@ date_format = "Jan 2006"
 
   
   """
+subtitle = "Research Experience"
 
 [[experience]]
   title = "Graduate Researcher"
