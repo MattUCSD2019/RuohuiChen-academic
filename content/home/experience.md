@@ -34,15 +34,5 @@ date_format = "Jan 2006"
 
   
   """
-subtitle = "Research Experience"
-
-[[experience]]
-  title = "Graduate Researcher"
-  company = "University of Pennsylvania"
-  company_url = "https://www.med.upenn.edu/ggeb/"
-  location = "Philadelphia, PA"
-  date_start = "2016-09-01"
-  date_end = "2018-05-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
