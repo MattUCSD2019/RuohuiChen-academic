@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 48  # Order that this section will appear.
+weight = 49  # Order that this section will appear.
 
 title = "Projects"
 
@@ -52,13 +52,14 @@ date_format = "Jan 2006"
   * Use backward model selection methods to select the 13-metabolites variables while controlling all clinical variables in the model.
   * Use Hosmer Lemmeshow test to see how well the model actually fit the data.
   * Use 5-fold cross validation for the sensitivity analysis.
+  
   """
 
 
 
 [[experience]]
-  title = "Leveraging marginal structural modeling with Cox regression 
-  to assess the survival benefit of accepting vs declining kidney allograft offers."
+  title = "Leveraging marginal structural modeling with Cox regression to 
+  assess the survival benefit of accepting vs declining kidney allograft offers."
   company = "University of Pennsylvania"
   company_url = "https://www.med.upenn.edu/ggeb/"
   location = "Philadelphia, PA"
