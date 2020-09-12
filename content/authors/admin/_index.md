@@ -1,7 +1,7 @@
 ---
 title: Ruohui(Matt) Chen
 role: Phd Candidate at Biostatistics department, School of Medicine, UCSD
-avatar_filename: avatar.jpg
+avatar_filename: img_0428.jpeg
 bio: My research interests include longitudinal analysis, survival analysis and
   causal inference
 interests:
