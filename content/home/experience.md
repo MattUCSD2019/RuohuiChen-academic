@@ -18,27 +18,30 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Biostatstics Summer Research Intern"
+  company = "Genentech"
+  company_url = "https://www.gene.com"
+  location = "South SanFrancisco, California"
+  date_start = "2020-06-16"
+  date_end = "2020-09-11"
   description = """
-  Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Developed a composite endpoint capturing clinically relevant deterioration (diary events) that, when combined with severe exacerbations, create a composite outcome (Compex). Compex can strongly mirror results seen with the severe exacerbation-validated outcome, to allow the design of clinical trials of shorter duration and that include fewer patients than trials assessing severe exacerbations. 
+  * Applied the algorithm of Compex in an asthma study, Compex reduced the sample size needed by at least 50%. Validation of independent test populations confirmed the ability of Compex to increase event frequencies, preserve treatment effect, and reduce the number of patients needed.
+  * Explored possible seasonal asthma exacerbation related symptoms (Breathing difficulty, Cough, Chest tightness, etc) trend during the asthma study period.
+  * Provided support to other clinical trials study such as simulations for sample size calculation and power calculation.
+
+
+  
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  title = "Graduate Researcher"
+  company = "University of Pennsylvania"
+  company_url = "https://www.med.upenn.edu/ggeb/"
+  location = "Philadelphia, PA"
+  date_start = "2016-09-01"
+  date_end = "2018-05-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
