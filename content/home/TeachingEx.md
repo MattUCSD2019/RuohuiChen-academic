@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Graduate Teaching Assistant"
+  title = "Biomedical Data Analysis (FMPH400)"
   company = "University of California, San Diego"
   company_url = "https://medschool.ucsd.edu/som/fmph/divisions/biostat/Pages/default.aspx"
   location = "La Jolla, CA"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "Graduate Teaching Assistant"
+  title = "Biological Data Analysis (BIOM611)"
   company = "University of Pennsylvania"
   company_url = "https://www.med.upenn.edu/ggeb/"
   location = "Philadelphia, PA"
