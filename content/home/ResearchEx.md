@@ -26,7 +26,7 @@ date_format = "Jan 2006"
   location = "La Jolla, CA"
   date_start = "2018-09-01"
   date_end = ""
-  description = """
+  description = 
 
 
 [[experience]]
@@ -36,6 +36,6 @@ date_format = "Jan 2006"
   location = "Philadelphia, PA"
   date_start = "2016-09-01"
   date_end = "2018-05-31"
-  description = """
+  description = ""
 
 +++
