@@ -25,7 +25,7 @@ date_format = "Jan 2006"
   company_url = "https://medschool.ucsd.edu/som/fmph/divisions/biostat/Pages/default.aspx"
   location = "La Jolla, CA"
   date_start = "2018-09-01"
-  date_end = """
+  date_end = ""
   description = """
 
 
