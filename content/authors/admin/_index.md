@@ -5,9 +5,9 @@ avatar_filename: img_0428.jpeg
 bio: My research interests include longitudinal analysis, survival analysis and
   causal inference
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Longitudinal analysis
+  - Survival analysis
+  - Causal inference
 social: []
 organizations:
   - name: University of California, San Diego
