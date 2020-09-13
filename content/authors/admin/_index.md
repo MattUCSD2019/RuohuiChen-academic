@@ -31,4 +31,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Ruohui (Matt) is a Phd candidate at the UCSD biostats department. His research interests include longitudinal data analysis, survival analysis and causal inference. Besides developed appropriate statistical models in different projects, he also quite familiar with simulation studies for sample size and power calculation. Other than research, he loves teaching, had some great teaching experience at both UPenn and UCSD.
+Ruohui (Matt) is a Phd candidate at the UCSD biostats department. His research interests include longitudinal data analysis, survival analysis and causal inference. Besides developed appropriate statistical models in different projects, he is also quite familiar with simulation studies for sample size and power calculation. Other than research, he loves teaching, had some great teaching experience at both UPenn and UCSD.
